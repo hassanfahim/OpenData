@@ -1,2 +1,2 @@
 # OpenData
-Project based oon YEG open data
+Project based on YEG open data
